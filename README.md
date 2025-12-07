@@ -13,6 +13,15 @@
 
 ---
 
+<img width="1094" height="639" alt="screen" src="https://github.com/user-attachments/assets/809d5a73-1e17-4f49-a512-345fcdb2eb7f" />
+
+![graphik](https://github.com/user-attachments/assets/8a618531-e171-4523-a5bb-5ef22dc3921f)
+
+<img width="1002" height="632" alt="graphik3" src="https://github.com/user-attachments/assets/1ab10eab-1092-430b-8fc0-8bf649990b6e" />
+
+
+---
+
 ### 🛡️ Безопасность и проверка на вирусы
 
 Мы ценим доверие пользователей, поэтому файл установки прошел проверку на платформе VirusTotal.
