@@ -1,2 +1,2 @@
-# price-deal-tracker
-Price tracking tool for Ozon, Wildberries, Yandex.Market
+# Охотник за выгодой
+Приложение для отслеживания изменения цены на маркетплейсах Ozon, Wildberries, Yandex.Market
