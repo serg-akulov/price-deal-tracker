@@ -12,7 +12,6 @@
 *   **📊 Экспорт данных:** Возможность выгрузить собранную аналитику как для всех товаров, так и для каждого по отдельности товара для дальнейшей работы.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=serg-akulov.price-deal-tracker)
-
 [![Downloads](https://img.shields.io/github/downloads/serg-akulov/price-deal-tracker/total?style=for-the-badge&color=orange)](https://github.com/serg-akulov/price-deal-tracker/releases)
 ---
 
