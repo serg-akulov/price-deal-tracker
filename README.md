@@ -11,8 +11,9 @@
 *   **⚡ Полная автоматизация:** Настройте интервал обновлений (например, каждые 12 часа), и программа будет работать в фоне, пока вы занимаетесь своими делами.
 *   **📊 Экспорт данных:** Возможность выгрузить собранную аналитику как для всех товаров, так и для каждого по отдельности товара для дальнейшей работы.
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=serg-akulov.price-deal-tracker)
+
 [![Downloads](https://img.shields.io/github/downloads/serg-akulov/price-deal-tracker/total?style=for-the-badge&color=orange)](https://github.com/serg-akulov/price-deal-tracker/releases)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=serg-akulov.price-deal-tracker)
 ---
 
 <img width="1094" height="639" alt="screen" src="https://github.com/user-attachments/assets/809d5a73-1e17-4f49-a512-345fcdb2eb7f" />
