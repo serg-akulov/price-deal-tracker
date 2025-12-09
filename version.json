@@ -1,5 +1,6 @@
 {
-  "stable": "1.0.1",
-  "notes": "Первая стабильная версия.",
-  "download_url": "https://github.com/serg-akulov/price-deal-tracker/releases/download/v1.0.1/Setup_HunterProfit.exe"
+  "stable": "1.0.2",
+  "notes": "Стабильная версия. Расширены возможности бесплатной версии",
+  "download_url": "https://github.com/serg-akulov/price-deal-tracker/releases/download/v1.0.2/Setup_HunterProfit_1.0.2.exe
+"
 }
